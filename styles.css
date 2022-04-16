@@ -11,3 +11,8 @@
 	outline: none;
 	font-family: 'Bellota Text', cursive;
 }
+
+html {
+    font-size: 62.5%;
+    scroll-behavior: smooth;
+}
