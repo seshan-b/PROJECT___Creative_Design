@@ -82,3 +82,12 @@ html {
         transform: rotate(360deg);
     }
 }
+
+.navbar {
+    position: relative;
+    z-index: 20;
+    top: 4rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
