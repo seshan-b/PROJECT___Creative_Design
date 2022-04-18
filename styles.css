@@ -91,3 +91,18 @@ html {
     flex-direction: row;
     justify-content: space-evenly;
 }
+
+.navbar-link {
+    font-size: 2.2rem;
+    font-weight: 700;
+    letter-spacing: 0.2rem;
+    color: #fff;
+    width: 1.5rem;
+    text-align: center;
+    word-wrap: break-word;
+    transition: all 0.5s;
+}
+
+
+
+
