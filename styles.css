@@ -111,4 +111,22 @@ html {
 }
 
 
+.section-1-heading {
+    font-size: 8rem;
+    font-family: "Monoton", cursive;
+    position: absolute;
+    top: 18vw;
+    left: 50%;
+    transform: translateX(-50%);
+    text-shadow: 0.3rem 0.3rem 0.3rem #888;
+    color: #fff;
+    background-color: #fff;
+    width: 85rem;
+    text-align: center;
+    padding: 0.8rem 1.6rem;
+    border-radius: 0.8rem;
+    opacity: 0.9;
+}
+
+
 
