@@ -103,6 +103,12 @@ html {
     transition: all 0.5s;
 }
 
+.navbar-link:hover {
+    width: 15rem;
+    background-color: rgba(255, 255, 255, 0.2);
+    transition: all 2.5s;
+
+}
 
 
 
