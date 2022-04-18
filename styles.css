@@ -21,3 +21,14 @@ html {
     width: 100%;
     overflow-x: hidden;    
 }
+
+/* For Section 2 & 3 */
+.section-heading {
+    font-size: 10rem;
+    font-weight: bold;
+    text-decoration: uppercase;
+    color:#999;
+    text-align: center;
+    opacity: 0.5; 
+    text-shadow: 2rem 2rem 2rem 4rem #aaa;
+}
