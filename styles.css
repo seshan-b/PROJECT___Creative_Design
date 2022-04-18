@@ -46,3 +46,14 @@ html {
 
 
 }
+
+.floating-bg {
+    width: 150vw;
+    height: 150vw;
+    background-color: rgba(50, 231, 255, 0.8);
+    position: absolute;
+    top: -125vw;
+    left: calc(50% - 75vw);
+    border-radius: 45%;
+    animation: rotate 30s infinite;
+}
