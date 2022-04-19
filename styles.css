@@ -32,3 +32,17 @@ html {
     opacity: 0.5; 
     text-shadow: 2rem 2rem 2rem 4rem #aaa;
 }
+
+/* End Common Styles */
+
+
+/* Section 1  */
+
+.section-1 {
+    width: 100%;
+    height: 100vh;
+    background-color: #fff;
+    position: relative;
+
+
+}
