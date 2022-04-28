@@ -148,3 +148,13 @@ html {
 /* End Section 1  */
 
 /* Section 2  */
+
+
+
+.section-2 {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
