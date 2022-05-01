@@ -180,3 +180,12 @@ html {
     box-shadow: 1rem 1rem 2rem #ddd,
     -1rem -1rem 2rem #eee;
 }
+.customer:hover {
+    box-shadow: 2rem 2rem 3rem #ddd,
+    -2rem -2rem 3rem #eee;
+    transition: box-shadow 0.5s;
+}
+
+.customer:first-child {
+    align-self: flex-end;
+}
