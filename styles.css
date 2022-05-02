@@ -185,7 +185,3 @@ html {
     -2rem -2rem 3rem #eee;
     transition: box-shadow 0.5s;
 }
-
-.customer:first-child {
-    align-self: flex-end;
-}
