@@ -171,3 +171,8 @@ html {
 .customer:first-child {
     align-self: flex-end;
 }
+
+
+.customer:last-child {
+    align-self: flex-start;
+}
