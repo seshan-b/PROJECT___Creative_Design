@@ -198,3 +198,12 @@ html {
     font-size: 2rem;
     color: #f08e0f;
 }
+
+.customer-img {
+    width: 10rem;
+    height: 10rem;
+    object-fit: cover;
+    margin: 2rem 0;
+    border-radius: 50%;
+
+}
