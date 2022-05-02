@@ -176,3 +176,9 @@ html {
 .customer:last-child {
     align-self: flex-start;
 }
+
+
+.fa-quote-left {
+    font-size: 4rem;
+    color: #f08e0f;
+}
