@@ -182,3 +182,14 @@ html {
     font-size: 4rem;
     color: #f08e0f;
 }
+
+.customer-text {
+    font-size: 1.8rem;
+    margin: 2.5rem 0;
+    text-align: justify;
+
+}
+
+.customer-text::first-letter {
+    margin-left: 1rem;
+}
