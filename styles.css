@@ -193,3 +193,8 @@ html {
 .customer-text::first-letter {
     margin-left: 1rem;
 }
+
+.customer-rating i {
+    font-size: 2rem;
+    color: #f08e0f;
+}
