@@ -169,48 +169,44 @@ html {
 }
 
 .customer:first-child {
-    align-self: flex-end;
+	align-self: flex-end;
 }
-
 
 .customer:last-child {
-    align-self: flex-start;
+	align-self: flex-start;
 }
 
-
 .fa-quote-left {
-    font-size: 4rem;
-    color: #f08e0f;
+	font-size: 4rem;
+	color: #f08e0f;
 }
 
 .customer-text {
-    font-size: 1.8rem;
-    margin: 2.5rem 0;
-    text-align: justify;
-
+	font-size: 1.8rem;
+	margin: 2.5rem 0;
+	text-align: justify;
 }
 
 .customer-text::first-letter {
-    margin-left: 1rem;
+	margin-left: 1rem;
 }
 
 .customer-rating i {
-    font-size: 2rem;
-    color: #f08e0f;
+	font-size: 2rem;
+	color: #f08e0f;
 }
 
 .customer-img {
-    width: 10rem;
-    height: 10rem;
-    object-fit: cover;
-    margin: 2rem 0;
-    border-radius: 50%;
-
+	width: 10rem;
+	height: 10rem;
+	object-fit: cover;
+	margin: 2rem 0;
+	border-radius: 50%;
 }
 
 .customer-name {
-    font-size: 2rem;
-    font-weight: 700;
+	font-size: 2rem;
+	font-weight: 700;
 }
 
 /* End Section 2  */
