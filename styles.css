@@ -242,3 +242,8 @@ html {
     opacity: 0.8;
     transition: opacity 0.5s;
 }
+
+
+.team-member:hover {
+    opacity: 1;
+}
