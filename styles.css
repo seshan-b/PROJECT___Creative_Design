@@ -247,3 +247,7 @@ html {
 .team-member:hover {
     opacity: 1;
 }
+
+.team-member:first-child {
+    align-self: flex-start;
+}
