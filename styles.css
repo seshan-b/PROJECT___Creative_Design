@@ -222,32 +222,30 @@ html {
 	padding: 5rem 0;
 }
 
-
 .team-wrapper {
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
-    height: 70%;
-
-
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+	height: 70%;
 }
 
 .team-member {
-    width: 35rem;
-    background-color: #fffeee;
-    padding: 1rem 1rem 2rem 1rem;
-    box-shadow: 1rem 1rem 2rem #ddd,
-    -1rem -1rem 2rem #eee;
-    position: relative;
-    opacity: 0.8;
-    transition: opacity 0.5s;
+	width: 35rem;
+	background-color: #fffeee;
+	padding: 1rem 1rem 2rem 1rem;
+	box-shadow: 1rem 1rem 2rem #ddd, -1rem -1rem 2rem #eee;
+	position: relative;
+	opacity: 0.8;
+	transition: opacity 0.5s;
 }
 
-
 .team-member:hover {
-    opacity: 1;
+	opacity: 1;
 }
 
 .team-member:first-child {
-    align-self: flex-start;
+	align-self: flex-start;
+}
+.team-member:last-child {
+    align-self: flex-end;
 }
