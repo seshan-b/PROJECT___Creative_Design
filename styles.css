@@ -249,3 +249,8 @@ html {
 .team-member:last-child {
     align-self: flex-end;
 }
+
+.team-member-img {
+    width: 100%;
+    border-radius: 0.5rem;
+}
