@@ -262,3 +262,7 @@ html {
     margin-top: 2rem;
 
 }
+
+.team-member-name span {
+    font-size: 1.7rem;
+}
