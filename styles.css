@@ -254,3 +254,11 @@ html {
     width: 100%;
     border-radius: 0.5rem;
 }
+
+.team-member-name {
+    font-size: 2.3rem;
+    font-weight: 700;
+    color: #796717;
+    margin-top: 2rem;
+
+}
