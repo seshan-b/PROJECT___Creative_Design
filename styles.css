@@ -273,3 +273,9 @@ html {
     justify-content: space-between;
     margin: 1rem 0 2rem 0;
 }
+
+
+.team-member-skills li {
+    font-size: 1.5rem;
+    color: #505050;
+}
