@@ -279,3 +279,31 @@ html {
     font-size: 1.5rem;
     color: #505050;
 }
+
+.projects-btn {
+    background-color: #fab34a;
+    color: #fff;
+    padding: 0.5rem 1.5rem;
+    border-radius: 5rem;
+    font-size: 1.5rem;
+    letter-spacing: 0.2rem;
+
+}
+
+.story-btn {
+    width: 4rem;
+    height: 4rem;
+    background-color: #222;
+    position: absolute;
+    top: -1rem;
+    right: -1rem;
+    border-radius: 5rem;
+    display: flex;
+    align-items: center;
+    padding: 0.5rem;
+    cursor: pointer;
+    z-index: 50;
+    transition: transform 0.5s;
+
+
+}
