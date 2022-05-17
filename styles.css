@@ -313,3 +313,14 @@ html {
     height: 0.1rem;
     background-color: #fff;
 }
+
+/* Click Event class created in JS */
+.change-button-on-click.story-btn {
+    transform:rotate(405deg)
+}
+
+
+.display-story-on-click.story {
+    transform: scale(1);
+    border-radius: 0.2rem;
+}
