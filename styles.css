@@ -266,3 +266,10 @@ html {
 .team-member-name span {
     font-size: 1.7rem;
 }
+
+
+.team-member-skills {
+    display: flex;
+    justify-content: space-between;
+    margin: 1rem 0 2rem 0;
+}
