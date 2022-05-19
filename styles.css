@@ -351,3 +351,11 @@ html {
     color: #fff;
     margin-bottom: 2rem;
 }
+.story-paragraph {
+    font-size: 1.8rem;
+    color: #eee;
+    text-align: justify;
+    letter-spacing: 0.1rem;
+    text-indent: 2rem;
+
+}
