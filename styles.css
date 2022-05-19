@@ -342,3 +342,12 @@ html {
     transform-origin: top right;
     border-radius: 50rem 0 50rem 50rem;
 }
+
+
+
+.story-heading {
+    font-size: 4rem;
+    font-weight: 700;
+    color: #fff;
+    margin-bottom: 2rem;
+}
