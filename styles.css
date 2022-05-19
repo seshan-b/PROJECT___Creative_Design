@@ -317,6 +317,7 @@ html {
 /* Click Event class created in JS */
 .change-button-on-click.story-btn {
     transform:rotate(405deg)
+<<<<<<< HEAD
 }
 
 
@@ -324,3 +325,6 @@ html {
     transform: scale(1);
     border-radius: 0.2rem;
 }
+=======
+}
+>>>>>>> b4c34bcb3dda1bcf337379c861ba81ab453dbfdb
