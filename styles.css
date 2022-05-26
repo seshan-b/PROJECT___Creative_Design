@@ -435,3 +435,8 @@ html {
     cursor: pointer;
     transition: background-color 0.5s;
 }
+
+
+.contact-form input[type="submit"]:hover {
+    background-color: #32e7ff;
+}
