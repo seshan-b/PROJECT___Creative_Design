@@ -464,3 +464,6 @@ html {
     transition: background-color 0.5s;
 }
 
+.scroll-up-btn:hover {
+    background-color: #32e7ff;
+}
