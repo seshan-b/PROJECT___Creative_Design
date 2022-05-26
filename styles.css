@@ -425,3 +425,13 @@ html {
     max-width: 100%;
     min-width: 70%;
 }
+
+.contact-form input[type="submit"]
+{
+    background-color: rgb(50, 231, 255, 0.8);
+    color: #fff;
+    font-weight: bolder;
+    letter-spacing: 0.5rem;
+    cursor: pointer;
+    transition: background-color 0.5s;
+}
