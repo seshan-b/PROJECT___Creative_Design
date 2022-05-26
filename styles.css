@@ -447,3 +447,20 @@ html {
     color: #444;
     margin: 5rem 0 4rem 0;
 }
+
+.scroll-up-btn {
+    width: 7rem;
+    height: 7rem;
+    background-color: rgba(50, 231, 255, 0.8);
+    position: fixed;
+    bottom: 5rem;
+    right: 5rem;
+    border-radius: 50%;
+    color: #fff;
+    font-size: 3.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: background-color 0.5s;
+}
+
