@@ -468,19 +468,17 @@ html {
 
 /* End Section 4  */
 
-
-
 /* Responsive */
 
-@media(max-width: 1400px)
-{
-  .floating-bg {
-      top: -120vw;
-
-  }
+@media (max-width: 1400px) {
+	.floating-bg {
+		top: -120vw;
+	}
+	.section-1-heading {
+		font-size: 6rem;
+		top: 25vw;
+		width: 70rem;
+	}
 }
 
-
-
 /* End of Responsive */
-
