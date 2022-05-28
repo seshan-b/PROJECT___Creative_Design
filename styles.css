@@ -479,6 +479,10 @@ html {
 		top: 25vw;
 		width: 70rem;
 	}
+
+	.navbar-link {
+		font-size: 2rem;
+	}
 }
 
 /* End of Responsive */
