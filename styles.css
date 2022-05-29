@@ -483,6 +483,11 @@ html {
 	.navbar-link {
 		font-size: 2rem;
 	}
+	
+	.logo {
+		top: 75%;
+	}
+  
 }
 
 /* End of Responsive */
