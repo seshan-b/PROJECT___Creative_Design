@@ -523,6 +523,12 @@ html {
 	.team-member {
 		margin: 5rem 10rem;
 	}
+
+	.form-container  {
+		height: 60%;
+		padding: 3rem;
+  
+	}
   
   
 }
