@@ -519,6 +519,10 @@ html {
 		flex-wrap: wrap;
   
 	}
+
+	.team-member {
+		margin: 5rem 10rem;
+	}
   
   
 }
