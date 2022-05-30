@@ -487,6 +487,11 @@ html {
 	.logo {
 		top: 75%;
 	}
+
+	
+	.logo i {
+		font-size: 10rem;
+	}
   
 }
 
