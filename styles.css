@@ -537,6 +537,10 @@ html {
 	.contact-form {
 		transform: translateY(0);
 	}
+
+	.contact-form:hover {
+		transform: translateY(-1rem);
+	}
   
   
   
