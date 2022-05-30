@@ -483,19 +483,17 @@ html {
 	.navbar-link {
 		font-size: 2rem;
 	}
-	
+
 	.logo {
 		top: 75%;
 	}
 
-	
 	.logo i {
 		font-size: 10rem;
 	}
 	.section-heading {
 		font-size: 8rem;
 		margin-bottom: 10rem;
-  
 	}
 
 	.section-2 {
@@ -512,22 +510,19 @@ html {
 
 	.section-3 {
 		height: auto;
-	
-	  }
+	}
 
-	  .team-wrapper {
+	.team-wrapper {
 		flex-wrap: wrap;
-  
 	}
 
 	.team-member {
 		margin: 5rem 10rem;
 	}
 
-	.form-container  {
+	.form-container {
 		height: 60%;
 		padding: 3rem;
-  
 	}
 
 	.form-img {
@@ -541,11 +536,10 @@ html {
 	.contact-form:hover {
 		transform: translateY(-1rem);
 	}
-  
-    .copyright {
+
+	.copyright {
 		margin: 5rem 0 4rem 0;
 	}
-  
 }
 
 /* End of Responsive */
