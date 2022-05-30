@@ -542,7 +542,9 @@ html {
 		transform: translateY(-1rem);
 	}
   
-  
+    .copyright {
+		margin: 5rem 0 4rem 0;
+	}
   
 }
 
