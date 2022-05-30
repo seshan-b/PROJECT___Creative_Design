@@ -529,6 +529,11 @@ html {
 		padding: 3rem;
   
 	}
+
+	.form-img {
+		display: none;
+	}
+  
   
   
 }
