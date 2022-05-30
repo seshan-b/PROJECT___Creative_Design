@@ -505,6 +505,11 @@ html {
 	.customer-wrapper {
 		flex-wrap: wrap;
 	}
+
+	.customer {
+		margin: 5rem 10rem;
+	}
+  
   
 }
 
