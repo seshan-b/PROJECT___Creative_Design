@@ -514,6 +514,11 @@ html {
 		height: auto;
 	
 	  }
+
+	  .team-wrapper {
+		flex-wrap: wrap;
+  
+	}
   
   
 }
