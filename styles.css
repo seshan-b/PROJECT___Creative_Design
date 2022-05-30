@@ -501,6 +501,10 @@ html {
 	.section-2 {
 		height: auto;
 	}
+
+	.customer-wrapper {
+		flex-wrap: wrap;
+	}
   
 }
 
