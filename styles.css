@@ -540,6 +540,18 @@ html {
 	.copyright {
 		margin: 5rem 0 4rem 0;
 	}
+
+}
+
+
+@media(max-width: 1150px) 
+{
+    .floating-bg {
+        top: -110vw;
+    }
+
+
+
 }
 
 /* End of Responsive */
