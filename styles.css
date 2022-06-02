@@ -556,6 +556,9 @@ html {
         width: 60rem;
     }
 
+    .logo i {
+        font-size: 8rem;
+    }
 
 }
 
