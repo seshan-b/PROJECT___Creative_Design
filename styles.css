@@ -559,6 +559,9 @@ html {
 }
 
 @media (max-width: 950px) {
+	.floating-bg {
+        top: -100vw;
+    }
 }
 
 @media (max-width: 750px) {
