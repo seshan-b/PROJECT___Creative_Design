@@ -562,6 +562,9 @@ html {
 	.floating-bg {
         top: -100vw;
     }
+	.section-1-heading {
+        top: 40vw;
+    }
 }
 
 @media (max-width: 750px) {
