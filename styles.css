@@ -565,6 +565,10 @@ html {
 	.section-1-heading {
         top: 40vw;
     }
+
+	.navbar {
+        justify-content: space-around;
+    }
 }
 
 @media (max-width: 750px) {
