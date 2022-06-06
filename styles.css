@@ -572,6 +572,9 @@ html {
 }
 
 @media (max-width: 750px) {
+	html{
+        font-size: 50%;
+    }
 }
 
 @media (max-width: 550px) {
