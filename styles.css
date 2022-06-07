@@ -618,6 +618,10 @@ html {
         margin: 5rem 0;
     }
 
+	.section-4 {
+        height: auto;
+    }
+
 }
 
 /* End of Responsive */
