@@ -622,6 +622,12 @@ html {
         height: auto;
     }
 
+	.form-container {
+        background-color: transparent;
+        box-shadow: none;
+    }
+
+
 }
 
 /* End of Responsive */
