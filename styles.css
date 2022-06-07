@@ -631,6 +631,11 @@ html {
         box-shadow: 1rem 1rem 2rem #aaa;
     }
 
+	
+    .contact-form:hover {
+        box-shadow: 2rem 2rem 3rem #aaa;
+    }
+
 
 }
 
