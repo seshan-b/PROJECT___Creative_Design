@@ -606,6 +606,10 @@ html {
         font-size: 3.5rem;
     }
 
+	.section-heading {
+        font-size: 6rem;
+    }
+
 }
 
 /* End of Responsive */
