@@ -575,6 +575,11 @@ html {
 	html{
         font-size: 50%;
     }
+
+	
+    .floating-bg {
+        top:-90vw;
+    }
 }
 
 @media (max-width: 550px) {
