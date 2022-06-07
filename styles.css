@@ -610,6 +610,10 @@ html {
         font-size: 6rem;
     }
 
+	.customer {
+        margin: 5rem 0;
+    }
+
 }
 
 /* End of Responsive */
