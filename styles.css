@@ -636,6 +636,13 @@ html {
         box-shadow: 2rem 2rem 3rem #aaa;
     }
 
+	.copyright {
+        font-size: 1.8rem;
+        margin: 5rem;
+        text-align: center;
+    }
+
+
 
 }
 
