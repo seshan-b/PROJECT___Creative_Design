@@ -591,6 +591,21 @@ html {
 }
 
 @media (max-width: 550px) {
+	html {
+        font-size: 45%;
+    }
+
+	
+    .floating-bg {
+        top: -70vw;
+    }
+
+	.section-1-heading {
+        top: 65vw;
+        width: 42rem;
+        font-size: 3.5rem;
+    }
+
 }
 
 /* End of Responsive */
