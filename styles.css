@@ -560,93 +560,89 @@ html {
 
 @media (max-width: 950px) {
 	.floating-bg {
-        top: -100vw;
-    }
+		top: -100vw;
+	}
 	.section-1-heading {
-        top: 40vw;
-    }
+		top: 40vw;
+	}
 
 	.navbar {
-        justify-content: space-around;
-    }
+		justify-content: space-around;
+	}
 }
 
 @media (max-width: 750px) {
-	html{
-        font-size: 50%;
-    }
+	html {
+		font-size: 50%;
+	}
 
-	
-    .floating-bg {
-        top:-90vw;
-    }
+	.floating-bg {
+		top: -90vw;
+	}
 
 	.section-1-heading {
-        top: 48vw;
-    }
+		top: 48vw;
+	}
 
 	.section-heading {
-        margin-bottom: 5rem;
-    }
+		margin-bottom: 5rem;
+	}
 }
 
 @media (max-width: 550px) {
 	html {
-        font-size: 45%;
-    }
+		font-size: 45%;
+	}
 
-	
-    .floating-bg {
-        top: -70vw;
-    }
+	.floating-bg {
+		top: -70vw;
+	}
 
 	.section-1-heading {
-        top: 65vw;
-        width: 42rem;
-        font-size: 3.5rem;
-    }
+		top: 65vw;
+		width: 42rem;
+		font-size: 3.5rem;
+	}
 
 	.section-heading {
-        font-size: 6rem;
-    }
+		font-size: 6rem;
+	}
 
 	.customer {
-        margin: 5rem 0;
-    }
+		margin: 5rem 0;
+	}
 
 	.team-member {
-        margin: 5rem 0;
-    }
+		margin: 5rem 0;
+	}
 
 	.section-4 {
-        height: auto;
-    }
+		height: auto;
+	}
 
 	.form-container {
-        background-color: transparent;
-        box-shadow: none;
-    }
+		background-color: transparent;
+		box-shadow: none;
+	}
 
 	.contact-form {
-        box-shadow: 1rem 1rem 2rem #aaa;
-    }
+		box-shadow: 1rem 1rem 2rem #aaa;
+	}
 
-	
-    .contact-form:hover {
-        box-shadow: 2rem 2rem 3rem #aaa;
-    }
+	.contact-form:hover {
+		box-shadow: 2rem 2rem 3rem #aaa;
+	}
 
 	.copyright {
-        font-size: 1.8rem;
-        margin: 5rem;
-        text-align: center;
-    }
+		font-size: 1.8rem;
+		margin: 5rem;
+		text-align: center;
+	}
 
-    .scroll-up-btn {
-        bottom: 1rem;
-        right: 1rem;
-    }
-
+	.scroll-up-btn {
+		bottom: 1rem;
+		right: 1rem;
+	}
 }
 
 /* End of Responsive */
