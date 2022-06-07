@@ -580,6 +580,10 @@ html {
     .floating-bg {
         top:-90vw;
     }
+
+	.section-1-heading {
+        top: 48vw;
+    }
 }
 
 @media (max-width: 550px) {
