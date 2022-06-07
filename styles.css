@@ -584,6 +584,10 @@ html {
 	.section-1-heading {
         top: 48vw;
     }
+
+	.section-heading {
+        margin-bottom: 5rem;
+    }
 }
 
 @media (max-width: 550px) {
