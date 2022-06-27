@@ -1,2 +1,8 @@
-document.querySelectorAll(".story-btn").forEach(btn => {})
+document.querySelectorAll(".story-btn").forEach(btn => {
+    
+    btn.addEventListener("click", () => {
+
+    })
+
+})
 
